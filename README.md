@@ -1,2 +1,2 @@
 # KanApoo
-An implementation of the bockchain
+An implementation of the blockchain.
